@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6507d2b8.chunk.css",
+    "main.js": "/static/js/main.24bc6bf8.chunk.js",
+    "main.js.map": "/static/js/main.24bc6bf8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.34d66920.js",
+    "runtime-main.js.map": "/static/js/runtime-main.34d66920.js.map",
+    "static/js/2.0548d59f.chunk.js": "/static/js/2.0548d59f.chunk.js",
+    "static/js/2.0548d59f.chunk.js.map": "/static/js/2.0548d59f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.67793e71a2605c0688bf11bae6e0c634.js": "/precache-manifest.67793e71a2605c0688bf11bae6e0c634.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6507d2b8.chunk.css.map": "/static/css/main.6507d2b8.chunk.css.map",
+    "static/js/2.0548d59f.chunk.js.LICENSE.txt": "/static/js/2.0548d59f.chunk.js.LICENSE.txt",
+    "static/media/Kyzov.jpg": "/static/media/Kyzov.dc9ea161.jpg",
+    "static/media/No.jpg": "/static/media/No.d11eb109.jpg",
+    "static/media/Yes.jpg": "/static/media/Yes.f3d6ce84.jpg",
+    "static/media/App.css": "/static/media/fon2.6f0f9eb8.jpg",
+    "static/media/imgSorev.jpg": "/static/media/imgSorev.ef3d9b1b.jpg",
+    "static/media/logo.png": "/static/media/logo.6768fd72.png",
+    "static/media/Sorev.css": "/static/media/strelka.630a450d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34d66920.js",
+    "static/js/2.0548d59f.chunk.js",
+    "static/css/main.6507d2b8.chunk.css",
+    "static/js/main.24bc6bf8.chunk.js"
+  ]
+}
